@@ -2,8 +2,6 @@
 
 Interactive examples conversion
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DeaMariaLeon/scikit-learn-examples/main?labpath=Final-rows.ipynb)
-
 This is an example from the scikit-learn website that I made interactive.
 
 I did this during a sprint organized by Hugging Face in April 2023.
